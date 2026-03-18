@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=KHOJAGULOV%20DEV&fontAlign=50&fontAlignY=40&color=0:1a1a1a,100:ff0000&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.png" width="100%" />
-</p>
 
 <h1 align="center">👁️ Welcome to My World 👁️</h1>
 
